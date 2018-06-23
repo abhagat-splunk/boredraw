@@ -1,0 +1,3 @@
+# boredraw
+In this noisy e-commerce world often consumer has an opportunity to get products at the lowest price but the consumer is left unheard of them. Though we have the power of the internet and social media still the majority of common masses are left clueless of such deals. We are enabling the users to stay updated about the e-commerce world. We are aiming to target fashion products as that are the ones which are not easy to be searched at present. 
+The problem was attempted by taking a snapshot of the price tag using Optical Character Recognition and a Barcode Scanner. This provides rich data which helps in searching items over the web. The data was searched using APIs or searched within the crawled dataset.
